@@ -54,13 +54,17 @@ div.item {
 img.item1 {
     border-radius: 5px;
 }
+main {
+    font-size: larger;
+}
 footer {
     display: flex;
     justify-content: center;
     font-family: sans-serif;
-    font-size: large;
+    font-size: larger;
     background-color: bisque;
     margin: 10px;
     padding: 5px;
     
+
 }
