@@ -56,6 +56,10 @@ img.item1 {
 }
 main {
     font-size: larger;
+    background-color: bisque;
+    border-radius: 5px;
+    padding: 5px;
+    font-family: sans-serif;
 }
 footer {
     display: flex;
@@ -68,3 +72,4 @@ footer {
     
 
 }
+
